@@ -12,6 +12,27 @@
         "tdd"
       ],
       "addedDate": "2026-03-16"
+    },
+    {
+      "id": "what-not-to-do-when-running-ab-tests-25944166",
+      "title": "What not to do when running A/B tests",
+      "url": "https://medium.com/quintoandar-tech-blog/what-not-to-do-when-running-ab-tests-edaa4eae4366",
+      "type": "blog or article",
+      "topics": [
+        "ab-testing"
+      ],
+      "addedDate": "2026-03-16"
+    },
+    {
+      "id": "how-cypress-evolved-as-a-frontend-test-a-e0d10358",
+      "title": "How Cypress evolved as a frontend test automation tool at QuintoAndar",
+      "url": "https://medium.com/quintoandar-tech-blog/how-cypress-evolved-as-a-frontend-test-automation-tool-at-quintoandar-7bfa0e03bdf5",
+      "type": "blog or article",
+      "topics": [
+        "e2e-testing",
+        "cypress"
+      ],
+      "addedDate": "2026-03-16"
     }
   ]
 }

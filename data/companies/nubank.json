@@ -22,6 +22,19 @@
         "ab-testing",
         "frontend-testing"
       ]
+    },
+    {
+      "id": "an-incremental-strategy-with-ai-support--e8bb5a63",
+      "title": "An incremental strategy with AI support for unit testing in Clojure",
+      "url": "https://building.nubank.com/an-incremental-strategy-with-ai-support-for-unit-testing-in-clojure",
+      "type": "blog or article",
+      "topics": [
+        "ai",
+        "unit-testing",
+        "code-coverage",
+        "mutation-testing"
+      ],
+      "addedDate": "2026-03-16"
     }
   ],
   "meta": {
