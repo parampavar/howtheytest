@@ -91,6 +91,18 @@
         "web-testing"
       ],
       "addedDate": "2025-12-18"
+    },
+    {
+      "id": "from-a-long-list-to-a-clear-signal-basel-d16d0271",
+      "title": "From a long list to a clear signal: baseline-driven accessibility reporting",
+      "url": "https://tech.trivago.com/post/2026-03-13-from-a-long-list-to-a-clear-signal-baseline-driven-accessibility-reporting",
+      "type": "blog or article",
+      "topics": [
+        "accessibility-testing",
+        "test-automation",
+        "frontend-testing"
+      ],
+      "addedDate": "2026-04-16"
     }
   ],
   "meta": {
