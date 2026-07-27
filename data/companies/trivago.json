@@ -93,6 +93,32 @@
       "addedDate": "2025-12-18"
     },
     {
+      "id": "my-2-cents-ill-gladly-spend-them-to-stop-e315edb8",
+      "title": "My 2 Cents: I'll gladly spend them to stop staring at test logs",
+      "url": "https://tech.trivago.com/post/2026-04-15-my-2-cents-ill-gladly-spend-them-to-stop-staring-at-test-logs",
+      "type": "blog or article",
+      "topics": [
+        "ai",
+        "test-automation",
+        "continuous-integration",
+        "e2e-testing",
+        "flaky-tests"
+      ],
+      "addedDate": "2026-04-16"
+    },
+    {
+      "id": "from-a-long-list-to-a-clear-signal-basel-d16d0271",
+      "title": "From a long list to a clear signal: baseline-driven accessibility reporting",
+      "url": "https://tech.trivago.com/post/2026-03-13-from-a-long-list-to-a-clear-signal-baseline-driven-accessibility-reporting",
+      "type": "blog or article",
+      "topics": [
+        "accessibility-testing",
+        "test-automation",
+        "frontend-testing"
+      ],
+      "addedDate": "2026-04-16"
+    },
+    {
       "id": "how-a-learning-project-became-our-modern-dbbe6434",
       "title": "How a Learning Project Became Our Modern Mobile Test Framework",
       "url": "https://tech.trivago.com/post/2026-02-18-how-a-learning-project-became-our-modern-mobile-test-framework",
