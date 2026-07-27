@@ -117,6 +117,17 @@
         "frontend-testing"
       ],
       "addedDate": "2026-04-16"
+    },
+    {
+      "id": "how-a-learning-project-became-our-modern-dbbe6434",
+      "title": "How a Learning Project Became Our Modern Mobile Test Framework",
+      "url": "https://tech.trivago.com/post/2026-02-18-how-a-learning-project-became-our-modern-mobile-test-framework",
+      "type": "blog or article",
+      "topics": [
+        "test-automation",
+        "mobile-testing"
+      ],
+      "addedDate": "2026-04-16"
     }
   ],
   "meta": {
