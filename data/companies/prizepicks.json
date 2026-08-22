@@ -1,0 +1,17 @@
+{
+  "id": "prizepicks",
+  "name": "PrizePicks",
+  "industry": "gaming",
+  "resources": [
+    {
+      "id": "why-test-data-is-so-hard-and-how-we-solv-c34e1299",
+      "title": "Why Test Data Is So Hard – and How We Solved It at PrizePicks",
+      "url": "https://labs.prizepicks.com/why-test-data-is-so-hard-and-how-we-solved-it-at-prizepicks/",
+      "type": "blog or article",
+      "topics": [
+        "test-data-management"
+      ],
+      "addedDate": "2026-08-22"
+    }
+  ]
+}
